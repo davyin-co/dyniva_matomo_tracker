@@ -1,0 +1,8 @@
+name: Dyniva Matomo Tracker
+type: module
+description: Dyniva Matomo Php Tracker
+core: 8.x
+package: Dyniva
+dependencies:
+  - matomo
+  
